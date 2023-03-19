@@ -1,0 +1,10 @@
+input: .
+output: .retype
+url: example.com # Add your website address here
+branding:
+  title: Katie's AC Wiki
+  label: Wiki
+poweredByRetype: true
+links:
+  - text: Github Repo
+    link: https://github.com/katiebuilder/katies-ac-wiki
