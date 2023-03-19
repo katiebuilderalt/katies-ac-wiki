@@ -3,7 +3,6 @@ output: .retype
 url: acwiki.katiebuilds.website
 branding:
   title: Katie's AC Wiki
-  label: Wiki
   logo: src/favicon.png
   logoDark: src/favicon.png
 poweredByRetype: true
