@@ -4,7 +4,16 @@ url: example.com # Add your website address here
 branding:
   title: Katie's AC Wiki
   label: Wiki
+  logo: src/favicon.png
+  logoDark: src/favicon.png
 poweredByRetype: true
+edit:
+  repo: "https://github.com/katiebuilder/katies-ac-wiki/"
+  label: Edit on GitHub
+favicon: src/favicon.png
+exclude:
+  - "README.md"
 links:
   - text: Github Repo
     link: https://github.com/katiebuilder/katies-ac-wiki
+    icon: mark-github
