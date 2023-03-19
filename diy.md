@@ -1,7 +1,7 @@
 ---
 label: DIY
 layout: page
-order: 2
+order: 98
 ---
 # DIY
 

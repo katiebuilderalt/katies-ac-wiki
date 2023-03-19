@@ -1,7 +1,7 @@
 ---
 label: Home
 layout: home
-order: 1
+order: 100
 ---
 # Home page
 
