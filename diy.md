@@ -1,6 +1,6 @@
 ---
 label: DIY
-layout: page
+layout: default
 order: 98
 ---
 # DIY

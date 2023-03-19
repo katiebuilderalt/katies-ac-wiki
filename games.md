@@ -1,6 +1,6 @@
 ---
 label: Games
-layout: page
+layout: default
 order: 99
 ---
 # All entries in the "Animal Crossing" series.

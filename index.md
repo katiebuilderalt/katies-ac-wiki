@@ -2,6 +2,7 @@
 label: Home
 layout: home
 order: 100
+visibility: public
 ---
 # Home page
 
